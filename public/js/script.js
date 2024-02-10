@@ -1,18 +1,18 @@
 const answers = [
-    "Are you sure?",
-    "Are you really sure??",
-    "Are you really realy sure???",
-    "Think again?",
-    "Don't believe in second chances?",
-    "Why are you being so cold?",
-    "Maybe we can talk about it?",
-    "I am not going to ask again!",
-    "Ok now this is hurting my feelings!",
-    "You are now just being mean!",
-    "Why are you doing this to me?",
-    "Please give me a chance!",
-    "I am begging you to stop!",
-    "Ok, Lets just start over.."
+    "Arey are you sure?",
+    "Areyyyyy budo what the flip",
+    "Are you really realy sure??? like james charles ong?",
+    "Think again? maybe think twice",
+    "chat",
+    "eye roll, no grin, womp womp",
+    "fark moi mate",
+    "cuz pls",
+    "broski, mandem :C",
+    "aloo, tomato, goo",
+    "awigya ong imma slap u (dhooshum dhooshu)",
+    "imma tweak budiiiiii",
+    "L rizz, skibidi you are a lame bozo",
+    "hi this is sarvesh's mum, he just killed himself"
 ]
 
 const no_button = document.getElementById('no-button');
